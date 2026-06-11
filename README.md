@@ -44,3 +44,11 @@ Network monitoring dashboard for connected devices.
 ## 📫 Contact
 
 Email: rahulramesh148@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul002324&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul002324&layout=compact&theme=tokyonight)
