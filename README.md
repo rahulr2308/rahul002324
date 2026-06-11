@@ -1,10 +1,46 @@
-- 👋 Hi, I’m rahul
-- 👀 I’m interested in game and technology
-- 🌱 I’m currently learning cloud and Cyber Security
-- 💞️ I’m looking to post my skill 
-- 📫 How to reach me rahulramesh148@gmail.com
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 
-<!---
-rahul002324/rahul002324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+Cybersecurity Enthusiast | Network Security Learner | Python Developer
+</h3>
+
+---
+
+## 🚀 About Me
+
+🔐 Passionate about Cyber Security
+
+🌐 Learning Networking and Cloud Technologies
+
+🐍 Python Developer
+
+🛡️ Building Security Tools
+
+📚 Exploring Ethical Hacking and SOC Operations
+
+---
+
+## 💻 Skills
+
+- Python
+- Linux
+- Networking
+- Cyber Security
+- Git & GitHub
+- Cloud Computing
+
+---
+
+## 🔥 Current Projects
+
+### CyberNinja
+A cybersecurity toolkit for social media intelligence gathering.
+
+### IoT Tower Monitor
+Network monitoring dashboard for connected devices.
+
+---
+
+## 📫 Contact
+
+Email: rahulramesh148@gmail.com
